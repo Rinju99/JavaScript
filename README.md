@@ -1,1 +1,1 @@
-# JavaScript refresher repo
+# JavaScript Practice repo
